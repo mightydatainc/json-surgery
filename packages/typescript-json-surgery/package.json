@@ -1,12 +1,12 @@
 {
   "name": "@mightydatainc/json-surgery",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "description": "An easy-to-call function that invokes iterative, AI-guided edits to a JSON-compatible object",
   "author": "Mikhail Voloshin",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Mighty-Data-Inc/json-surgery"
+    "url": "https://github.com/mightydatainc/json-surgery"
   },
   "type": "module",
   "sideEffects": false,
@@ -34,7 +34,7 @@
     "chat"
   ],
   "dependencies": {
-    "@mightydatainc/llm-conversation": "^1.0.5"
+    "@mightydatainc/llm-conversation": ">=1.0.11"
   },
   "devDependencies": {
     "dotenv": "^17.3.1",

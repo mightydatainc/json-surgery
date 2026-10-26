@@ -2,6 +2,10 @@
 
 All notable changes to this package will be documented in this file.
 
+## [1.2.2] - 2026-10-26
+
+- Updated dependency: `mightydatainc-llm-conversation` (`LLMConversation`) is now `>=1.0.11`, with no upper cap.
+
 ## [1.2.1] - 2026-03-15
 
 - Fixed Python packaging metadata: the dependency on `mightydatainc-llm-conversation` (`LLMConversation`) was set incorrectly in the previous release.
